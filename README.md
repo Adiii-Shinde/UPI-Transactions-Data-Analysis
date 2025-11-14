@@ -3,6 +3,7 @@
 A comprehensive Power BI dashboard analyzing UPI (Unified Payments Interface) transaction data with advanced interactivity. Features multiple synchronized slicers, bookmarks for quick view switching, and drill-through capabilities for in-depth transaction insights across cities, payment methods, and merchant categories.
 
 ---
+Priview - https://app.powerbi.com/links/AXtyxy0ZMA?ctid=886abe6e-5df5-4218-aa37-00e1df3c3234&pbi_source=linkShare&bookmarkGuid=9f7508d9-bd42-4046-ad2e-fba8ed97ffbc
 
 ## 📋 Project Overview
 
