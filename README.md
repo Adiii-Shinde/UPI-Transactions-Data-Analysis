@@ -152,7 +152,7 @@ UPI-Transaction-Data-Analysis/
 ## 🚀 How to Use This Project
 
 ### **Option 1: Explore Interactive Dashboard (Recommended)**
-1. Visit the **[Live Power BI Dashboard](INSERT_YOUR_POWERBI_LINK_HERE)**
+1. Visit the **[Live Power BI Dashboard](https://app.powerbi.com/links/AXtyxy0ZMA?ctid=886abe6e-5df5-4218-aa37-00e1df3c3234&pbi_source=linkShare&bookmarkGuid=9f7508d9-bd42-4046-ad2e-fba8ed97ffbc)**
 2. Use the **synchronized slicers** on the left to filter data
 3. Click on **bookmarks** at the top to switch between pre-filtered views
 4. Hover over charts to see exact values
@@ -304,7 +304,7 @@ Using the interactive dashboard, you can instantly answer:
 
 | Resource | Link | Purpose |
 |----------|------|---------|
-| **Live Dashboard** | [Power BI Service](https://app.powerbi.com/links/AXtyxy0ZMA?ctid=886abe6e-5df5-4218-aa37-00e1df3c3234&pbi_source=linkShare) | Interactive exploration |
+| **Live Dashboard** | [Power BI Service](https://app.powerbi.com/links/AXtyxy0ZMA?ctid=886abe6e-5df5-4218-aa37-00e1df3c3234&pbi_source=linkShare&bookmarkGuid=9f7508d9-bd42-4046-ad2e-fba8ed97ffbc) | Interactive exploration |
 | **PBIX File** | Download from GitHub | Open in Power BI Desktop |
 | **PDF Report** | Download from GitHub | View all dashboards statically |
 | **Source Code** | This repository | Project documentation |
@@ -389,7 +389,7 @@ Perfect for roles requiring:
 
 | Version | Date | Updates |
 |---------|------|---------|
-| 1.0 | Nov 2024 | Initial dashboard release |
+| 1.0 | Nov 2025 | Initial dashboard release |
 | | | - Monthly transaction trends |
 | | | - 10 synchronized slicers |
 | | | - 6 interactive bookmarks for view switching |
